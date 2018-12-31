@@ -1,0 +1,11 @@
+.center{
+    text-align : center;
+}
+.target{
+    margin-top : 150px;
+    padding : 30px;
+    display : inline-block;
+    border : 10px solid black;
+    font-size : 100px;
+    font-weight: 900;
+}
